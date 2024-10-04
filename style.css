@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(155, 101, 0);
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+h1{ 
+    position: absolute;
+    left: 45%;
+}
+.subway-surfers{
+    border-radius: 30px;
+    position: absolute;
+    top: 5%;
+    left: 2%;
+}
+
+.background{
+    background-color: orange;
+    border-radius: 30px;
+    width: 98.4%;
+    height: 68%;
+    position: absolute;
+    top: 30%;
+}
